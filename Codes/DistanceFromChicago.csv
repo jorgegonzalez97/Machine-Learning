@@ -1,0 +1,60 @@
+CityState,StateCode,City,DrivingMilesFromChicago
+"Albany, NY",NY,Albany,820
+"Albuquerque, NM",NM,Albuquerque,1341
+"Atlanta, GA",GA,Atlanta,712
+"Baltimore, MD",MD,Baltimore,704
+"Billings, MT",MT,Billings,1247
+"Birmingham, AL",AL,Birmingham,661
+"Boise, ID",ID,Boise,1702
+"Boston, MA",MA,Boston,986
+"Buffalo, NY",NY,Buffalo,531
+"Charleston, SC",SC,Charleston,911
+"Charleston, WV",WV,Charleston,484
+"Charlotte, NC",NC,Charlotte,770
+"Cheyenne, WY",WY,Cheyenne,968
+"Cleveland, OH",OH,Cleveland,342
+"Columbia, SC",SC,Columbia,802
+"Columbus, OH",OH,Columbus,352
+"Dallas, TX",TX,Dallas,933
+"Denver, CO",CO,Denver,1009
+"Des Moines, IA",IA,Des Moines,333
+"Detroit, MI",MI,Detroit,278
+"EL Paso, TX",TX,EL Paso,1488
+"Fargo, ND",ND,Fargo,644
+"Grand Junction, CO",CO,Grand Junction,1252
+"Hartford, CT",CT,Hartford,903
+"Houston, TX",TX,Houston,1089
+"Indianapolis, IN",IN,Indianapolis,179
+"Jackson, MS",MS,Jackson,747
+"Jacksonville, FL",FL,Jacksonville,1058
+"Kansas City, MO",MO,Kanas City,529
+"Las Vegas, NV",NV,Las Vegas,1755
+"Little Rock, AR",AR,Little Rock,655
+"Los Angeles, CA",CA,Los Angeles,2028
+"Louisville, KY",KY,Louisville,297
+"Memphis, TN",TN,Memphis,536
+"Miami, FL",FL,Miami,1373
+"Milwaukee, WI",WI,Milwaukee,92
+"Minneapolis, MN",MN,Minneapolis,407
+"Nashville, TN",TN,Nashville,472
+"New Orleans, LA",LA,New Orleans,927
+"New York, NY",NY,New York,811
+"Norfolk, VA",VA,Norfolk,891
+"Oklahoma City, OK",OK,Oklahoma City,796
+"Omaha, NE",NE,Omaha,469
+"Orlando, FL",FL,Orlando,1152
+"Philadelphia, PA",PA,Philadelphia,761
+"Phoenix, AZ",AZ,Phoenix,1804
+"Pittsburgh, PA",PA,Pittsburgh,460
+"Portland, ME",ME,Portland,1087
+"Portland, OR",OR,Portland,2122
+"Rapid City, SD",SD,Rapid City,909
+"Reno, NV",NV,Reno,1924
+"Saint Louis, MO",MO,Saint Louis,300
+"Salt Lake City, UT",UT,Salt Lake City,1404
+"San Antonio, TX",TX,San Antonio,1210
+"San Diego, CA",CA,San Diego,2088
+"San Francisco, CA",CA,San Francisco,2148
+"Seattle, WA",WA,Seattle,2070
+"Washington, DC",DC,Washington,705
+"Wichita, KS",KS,Wichita,725
